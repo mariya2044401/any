@@ -13,6 +13,6 @@ document.write('<tr><td>'+userInput+'x'+i+'='+userInput*i+'</td></tr>','<br>')
     }
 
  let userInput1= +prompt('enter number')
- for(let i=1; i<=10; i++){
-    document.write('<tr><td>'+userInput1+'x'+i+'='+userInput1*i+'</td></tr>','<br>')
+ for(let j=1; j<=10; j++){
+    document.write('<tr><td>'+userInput1+'x'+j+'='+userInput1*j+'</td></tr>','<br>')
  }
